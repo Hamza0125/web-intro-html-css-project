@@ -1,0 +1,84 @@
+body{
+    text-align: center;
+    font-family: Verdana;
+}
+.head{
+    margin-left: 100px;
+    padding-left: 170px;
+    margin-right: 100px;
+    padding-right: 170px;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.flex-container div{
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+
+}
+.box1{
+    background-color:coral;
+    text-align: center;
+    border-radius: 10px;
+}
+.box2{
+    background-color: rgb(47, 156, 245);
+    text-align: center;
+    border-radius: 10px;
+}
+.box3{
+    background-color: rgba(241, 188, 12, 0.623);
+    text-align: center;
+    border-radius: 10px;
+}
+.Head-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    float: left;
+}
+.p2{
+    margin-right: 100px;
+    justify-content: center;
+}
+.p3{
+    background-color: coral;
+    text-align: center;
+    font-size: 18px;
+    width:  center 1000px;
+    border: none;
+    padding: 50px;
+    margin: 100px;
+    align-items: center;
+
+
+
+    align-items: center
+  }
+  .con{
+      margin: auto;
+      padding: auto;
+  }
+  .fire-imag{
+      height: 100px;
+      width: 100px;
+  }
+  .car-imag{
+    height: 100px;
+    width: 100px;
+  }
+  .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#footer_img img{
+   width:  98%;
+   height: 300px;
+   margin-top: 50px;
+}
+  
